@@ -3,7 +3,7 @@
 
 # temp files
 *~
-tmp/
+tmp/..
 
 # Logs
 logs
