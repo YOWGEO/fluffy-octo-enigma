@@ -1,0 +1,18 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "a simple react test",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "yowgeo",
+  "license": "ISC"
+}
